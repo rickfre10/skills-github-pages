@@ -1,4 +1,4 @@
 ---
-teste: github pages
+title: github pages
 ---
 
